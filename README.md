@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjstelly
 - 👀 I’m interested in all things React Native
-- 🌱 I’m currently learning Typescript, Context API, GraphQL, et al.
+- 🌱 I’m currently learning Typescript, React, NextJS, Postgres DB, et al.
 - 📫 How to reach me: View my profile into
 
 <!---
