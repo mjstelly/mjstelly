@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @mjstelly
-- 👀 I’m interested in all things React Native
-- 🌱 I’m currently learning Typescript, React, NextJS, Postgres DB, et al.
-- 📫 How to reach me: View my profile into
+React Native Modernization Specialist | 6+ Years RN Experience
 
-<!---
-mjstelly/mjstelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I fix legacy React Native apps that others won't touch. Specializing in:
+- RN version migrations (0.5x → 0.7x)
+- Dependency updates & security fixes
+- Performance optimization
+- Technical debt reduction
+
+Recent: Bluecrew, Sam's Club, Fortune 500 Healthcare
+
+Available for modernization projects and consulting.
+
+📧 mjstelly@pm.me
+🔗 refactory.carrd.co
