@@ -11,4 +11,4 @@ Recent: Bluecrew, Sam's Club, Fortune 500 Healthcare
 Available for modernization projects and consulting.
 
 📧 mjstelly@pm.me
-🔗 refactory.carrd.co
+🔗 [hrefactory.carrd.co](https://refactory.carrd.co/)
